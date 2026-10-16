@@ -42,65 +42,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+| Platform | Company Scale (Valuation / Revenue) | Starting Price | Free Tier Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[BrowserStack](https://www.browserstack.com/)** | **$4.0B Valuation** (~$200M+ ARR) | $29/month (Desktop Live, billed annually) | **Free Trial**: 30 mins Live/App Live testing, 100 mins Automate; Free tier for Percy (5,000 screenshots/month) | Most widely adopted cloud testing platform with 3,000+ real devices & 30,000+ browser-OS combinations. Supports Selenium, Playwright, Cypress, and Puppeteer. |
+| **[CrossBrowserTesting (SmartBear)](https://smartbear.com/product/crossbrowsertesting/)** | **$1.8B+ Valuation** (~$150M+ Revenue, SmartBear) | $39/month (Live Testing via SmartBear BitBar platform) | **Free Trial**: 14-day free trial (no credit card required) | Acquired by SmartBear and unified into its device testing cloud. Featured 2,050+ real browsers and OS combinations for live and automated testing. |
+| **[BitBar (SmartBear)](https://smartbear.com/product/bitbar/)** | **$1.8B+ Valuation** (~$150M+ Revenue, SmartBear) | $39/month (Live Testing, billed annually) | **Free Trial**: 14-day free trial (no credit card required) | SmartBear's consolidated real-device and browser testing cloud. Supports Appium, Espresso, XCUITest, and Selenium with parallel execution. |
+| **[HeadSpin](https://www.headspin.io/)** | **$1.2B Valuation** (~$25M–$30M ARR) | $39/month (CloudTest Lite tier) | **Free Trial / Demo**: Custom trial available upon demo request (Paid Lite tier offers 40 hrs/month) | Digital experience intelligence platform with real devices deployed across 90+ global locations; features AI-powered performance testing. |
+| **[LambdaTest](https://www.lambdatest.com/)** | **$400M Valuation** (~$35M–$50M+ ARR) | $15/month (Live Testing, billed annually) | **Free Forever**: 60 mins/month live interactive testing (10-min sessions), 100 automation mins (lifetime), 1 parallel test | AI-powered test execution cloud with 3,000+ real browsers and OS combinations. Features HyperExecute, AI visual regression, and KaneAI agent. |
+| **[Perfecto](https://www.perfecto.io/)** | **$200M Acquisition** (Perforce: ~$750M Revenue) | $83/month (Scriptless Web / Live testing) | **Free Trial**: 14-day free trial with access to cloud devices | Enterprise continuous testing platform by Perforce with real devices, AI-powered automation, and enterprise security. |
+| **[Sauce Labs](https://saucelabs.com/)** | **~$150M–$200M Valuation** (~$90M–$100M+ ARR) | $39/month (Live Testing, billed annually) | **Free Trial**: 28-day free trial with 60 testing minutes and 3 parallel VMs | Pioneer continuous testing cloud with 3,000+ real devices and browser combinations, mobile emulators/simulators, and visual testing. |
+| **[Kobiton](https://kobiton.com/)** | **~$70M–$100M Valuation** (~$15M–$25M ARR) | $83/month (Startup tier, billed annually) | **Free Trial**: 15-day free trial with 120 minutes of real device testing | Mobile-first testing platform with real iOS and Android devices, scriptless automation, and AI-driven test generation. |
+| **[TestGrid](https://testgrid.io/)** | **~$30M–$50M Valuation** (~$5M+ Revenue) | $25/month (Manual Testing) | **Free Forever**: 200 minutes/month for up to 5 users on cloud devices | Cloud and on-premise test automation platform featuring low-code automation, AI CoTester, and real devices/browsers. |
+| **[TestingBot](https://testingbot.com/)** | **Bootstrapped** (~$1M–$5M Revenue) | $20/month (Live Testing, billed annually) | **Free Trial**: 14-day free trial with 100 minutes of automated/live testing | Cross-browser testing grid with 5,500+ browser and device combinations supporting Selenium, Cypress, Playwright, and Puppeteer. |
 
-
-- **[BrowserStack](https://www.browserstack.com/)**  
-
-  **The most widely adopted cloud testing platform** with **3,000+ real devices** and **30,000+ browser-OS combinations** . Features **Automate** (Selenium, Playwright, Cypress, Puppeteer), **App Live** for manual testing, **App Automate** for mobile automation, and **Accessibility Testing** . **Trusted by 50,000+ customers** including Amazon, PayPal, and Google . **The default choice** for teams needing real-device coverage without maintaining a device lab.
-
-
-
-- **[Sauce Labs](https://saucelabs.com/)**  
-
-  **The original continuous testing cloud** with **3,000+ real devices and browser combos** . Features **cross-browser testing**, **mobile emulators/simulators**, **visual regression testing**, and **API testing** . **The most comprehensive device cloud** with global data centers.
-
-
-
-- **[LambdaTest](https://www.lambdatest.com/)**  
-
-  **AI-powered test orchestration and execution platform** with **3,000+ real browsers and OS combinations** . Features **HyperExecute** (up to 70% faster test execution), **AI visual regression**, and **KaneAI** (AI-native test agent) . **The most affordable major cloud platform** with generous free tier.
-
-
-
-- **[Kobiton](https://kobiton.com/)**  
-
-  **Mobile device testing platform** with **real iOS and Android devices** . Features **scriptless automation**, **AI-driven test generation**, and **public/private cloud deployment** . **The most mobile-focused platform**.
-
-
-
-- **[Perfecto](https://www.perfecto.io/)**  
-
-  **Enterprise continuous testing platform** (Perforce) with **real devices and browsers** . Features **AI-powered test automation**, **cross-platform coverage**, and **enterprise security**.
-
-
-
-- **[TestingBot](https://testingbot.com/)**  
-
-  **Cross-browser testing platform** with **5,500+ browsers and devices** . Features **Selenium, Cypress, Playwright support**, **real device testing**, and **automated screenshots**.
-
-
-
-- **[HeadSpin](https://www.headspin.io/)**  
-
-  **Digital experience intelligence platform** with **real devices in 90+ global locations** . Features **AI-powered performance testing**, **network condition simulation**, and **user experience analytics**.
-
-
-
-- **[TestGrid](https://testgrid.io/)**  
-
-  **Cloud-based test automation platform** with **real devices and browsers** . Features **low-code automation**, **CI/CD integration**, and **test reporting**.
-
-
-
-- **[CrossBrowserTesting (SmartBear)](https://smartbear.com/product/crossbrowsertesting/)**  
-
-  **Cloud testing platform** with **2,050+ real browsers and devices** . Features **live testing**, **automated testing**, and **visual testing** . **Acquired by SmartBear**.
-
-
-
-- **[BitBar (SmartBear)](https://smartbear.com/product/bitbar/)**  
-
-  **Cloud-based mobile and web testing platform** with **real devices and browsers** . Features **Appium, Espresso, XCUITest support**, **parallel execution**, and **CI/CD integration**.
 
 
 
