@@ -174,7 +174,7 @@ The global automated and continuous testing market is valued between **$25 billi
     - **Features**: Live test preview, comprehensive execution dashboard, test artifact retention, and automatic fallback redirection to cloud grids.  
     - **Best for**: Teams seeking an on-premise grid with visual dashboards and video archives.
 
-19. ### 🧪 [agent-qa](https://vostride.com) [![GitHub_Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers)
+19. ### 🧪 [agent-qa](https://github.com/vostride/agent-qa) [![GitHub_Stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social&color=white)](https://github.com/vostride/agent-qa/stargazers)
     **Natural-language UI testing through CLI and MCP** (FSL-1.1-ALv2; competing commercial use restricted)
     - **Highlights**: Tests Web, Android and iOS workflows from natural-language instructions.
     - **Features**: Persistent memidex memory and validated self-improvement reuse testing experience across runs.
